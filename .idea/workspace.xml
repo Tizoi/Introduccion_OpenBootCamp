@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c853b64-bd80-471b-ba02-f9c0c9d5c8ba" name="Changes" comment="Primer ejercicio de OpenBootCamp" />
+    <list default="true" id="7c853b64-bd80-471b-ba02-f9c0c9d5c8ba" name="Changes" comment="Cambios en la estructura del proyecto">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,10 +40,23 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ejercicios_Tema_4">
     <configuration name="Ejercicio_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicios_Tema_3.Ejercicio_1" />
       <module name="Introduccion_OpenBootCamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicios_Tema_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios_Tema_4.Ejercicios_Tema_4" />
+      <module name="Introduccion_OpenBootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicios_Tema_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -54,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicios_Tema_4" />
         <item itemvalue="Application.Ejercicio_1" />
       </list>
     </recent_temporary>
@@ -81,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659438463943</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cambios en la estructura del proyecto">
+      <created>1659441412090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659441412090</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer ejercicio de OpenBootCamp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer ejercicio de OpenBootCamp" />
+    <MESSAGE value="Cambios en la estructura del proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambios en la estructura del proyecto" />
   </component>
 </project>
