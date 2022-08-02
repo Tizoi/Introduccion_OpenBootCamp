@@ -1,3 +1,5 @@
+package Ejercicios_Tema_3;
+
 public class Ejercicio_1 {
 
     public static int suma_TRES(int a, int b, int c){
