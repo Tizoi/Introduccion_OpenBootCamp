@@ -1,4 +1,4 @@
-package Ejercicios_Tema_5;
+package Ejercicios_Tema_8;
 
 public class Persona {
     private int edad;

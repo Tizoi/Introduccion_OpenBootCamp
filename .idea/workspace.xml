@@ -62,11 +62,11 @@
       </method>
     </configuration>
     <configuration name="Persona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios_Tema_5.Persona" />
+      <option name="MAIN_CLASS_NAME" value="Ejercicios_Tema_8.Persona" />
       <module name="Introduccion_OpenBootCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicios_Tema_5.*" />
+          <option name="PATTERN" value="Ejercicios_Tema_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
