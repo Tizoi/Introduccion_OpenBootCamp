@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c853b64-bd80-471b-ba02-f9c0c9d5c8ba" name="Changes" comment="Ejercicios del tema 4 realizados.">
+    <list default="true" id="7c853b64-bd80-471b-ba02-f9c0c9d5c8ba" name="Changes" comment="Ejercicios del tema 8 realizados.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,19 +28,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/mipc/Desktop/Herramientas informáticas/Programar/Workspaces locales/Proyectos Backend/Introduccion_OpenBootCamp",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mipc/Desktop/Herramientas informáticas/Programar/Workspaces locales/Proyectos Backend/Introduccion_OpenBootCamp&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Persona">
+}</component>
+  <component name="RunManager" selected="Application.Cliente">
+    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicioes_Tema_9.Cliente" />
+      <module name="Introduccion_OpenBootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicioes_Tema_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ejercicio_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicios_Tema_3.Ejercicio_1" />
       <module name="Introduccion_OpenBootCamp" />
@@ -82,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cliente" />
         <item itemvalue="Application.Persona" />
         <item itemvalue="Application.Ejercicios_Tema_4" />
         <item itemvalue="Application.Ejercicio_1" />
@@ -125,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659442946930</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ejercicios del tema 5 realizados.">
+      <created>1659463641931</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659463641931</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ejercicios del tema 8 realizados.">
+      <created>1659463728472</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659463728472</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +171,8 @@
     <MESSAGE value="Primer ejercicio de OpenBootCamp" />
     <MESSAGE value="Cambios en la estructura del proyecto" />
     <MESSAGE value="Ejercicios del tema 4 realizados." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios del tema 4 realizados." />
+    <MESSAGE value="Ejercicios del tema 5 realizados." />
+    <MESSAGE value="Ejercicios del tema 8 realizados." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios del tema 8 realizados." />
   </component>
 </project>
