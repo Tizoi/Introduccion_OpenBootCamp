@@ -1,4 +1,4 @@
-package Ejercicioes_Tema_9;
+package Ejercicios_Tema_9;
 
 public class Cliente extends Persona {
     private double credito;

@@ -42,11 +42,11 @@
 }</component>
   <component name="RunManager" selected="Application.Cliente">
     <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicioes_Tema_9.Cliente" />
+      <option name="MAIN_CLASS_NAME" value="Ejercicios_Tema_9.Cliente" />
       <module name="Introduccion_OpenBootCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicioes_Tema_9.*" />
+          <option name="PATTERN" value="Ejercicios_Tema_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
